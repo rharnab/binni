@@ -1,0 +1,84 @@
+.navbar-default.navbar-static-side {
+    background: #fff;
+    color: #000 !important;
+}
+
+
+
+
+
+ul.nav-second-level, ul.nav-third-level  {
+    background: #fff;
+}
+
+.nav > li.hover {
+    border-left: 4px solid #19aa8d;
+    background: #b3b2b2;
+}
+
+.navbar-default.navbar-static-side li a:hover {
+    background: #0d12141a;
+}
+
+
+
+
+.navbar-default .nav > ul > li > a:hover, .navbar-default .nav > ul > li > a:focus {
+    background-color: #b3b2b2;
+    color: #000;
+}
+
+
+.navbar-default.navbar-static-side {
+    box-shadow: 0 1px 9px 1px rgba(0,0,0,.11);
+}
+
+.nav-second-level li:last-child {
+    padding-bottom: 0px;
+}
+
+.nav-header .text-muted {
+    color: #ffffff !important;
+}
+
+.nav-header a {
+    color: #ffffff;
+}
+
+nav > li.active {
+    border-left: 4px solid #19aa8d;
+    background: #b3b2b2!important;
+}
+
+.navbar-default.navbar-static-side ul li a:hover {
+    background: #0d1214c7 !important;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar-default.navbar-static-side ul li i:hover {
+  
+    text-decoration: none;
+    color: #fff !important;
+}
+
+
+
+.nav > li > a {
+    color: #343a40;
+    font-weight: 600;
+    padding: 14px 20px 14px 25px;
+    display: block;
+}
+
+
+i.fa.fa-circle-thin:hover {
+    color: #fff;
+}
+
+.nav > li > a {
+    color: #343a40;
+    font-weight: 600;
+    padding: 11px 20px 11px 25px;
+    display: block;
+}
